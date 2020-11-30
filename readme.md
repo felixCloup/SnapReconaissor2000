@@ -1,3 +1,5 @@
+Fait avec 3 autres personnes sur gitlab, transféré ici en enlevant les fichiers où il y a des photos.
+
 python3 snapReconaissor2000.py [-a image_a_ajouter] -b chemin_de_la_base_d_images images_a_identifier
 
 Les images de la base d'image doivent être dans un dossier séparé des images à identifier
